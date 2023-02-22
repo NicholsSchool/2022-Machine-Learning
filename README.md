@@ -7,9 +7,9 @@
 * Microsoft LifeCam HD-3000
 * Coral TPU USB Accelerator (optional)
 
-# Installtion
+# Installation
 * 1st: Upload the .tar.gz file on the "Application" tab within WPILibPi's web console.
-* 2nd: 
+* 2nd: Upload an executable file as a "Uploaded Python file".
 
 # How-Tos that were helpful for us
 * https://docs.wpilib.org/en/2022/docs/software/vision-processing/wpilibpi/walkthrough-video.html
